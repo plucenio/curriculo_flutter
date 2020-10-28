@@ -1,0 +1,98 @@
+{
+  "occupation": "Software developer",
+  "name": "Filipe Piletti Plucenio",
+  "description" : "Analista de Sistemas pós graduado em Gestão de Banco de Dados (2013) pela Universidade Luterana do Brasil - ULBRA. Na área desde 2010 como desenvolvedor de software, trabalhou geralmente com tecnologias Microsoft. Visual Studio e Microsoft SQL Server são as ferramentas com que tem mais familiaridade, C#, WPF são as habilidades mais fortes.",
+  "contact_details" : 
+  {
+    "email" : "plucenio@hotmail.com",  
+    "phone" : "(55) 51 992876358",
+    "linkedin" : "www.linkedin.com/in/filipeplucenio"
+  },
+  "languages" : 
+  {
+    "1" : 
+    {
+      "name" : "Portugues",
+      "level" : "10"
+    },
+    "2" : 
+    {
+      "name" : "Inglês",
+      "level" : "4"
+    }
+  },
+  "work_experience" : 
+  {
+    "1" : 
+    {
+      "company" : "Numeria",
+      "title" : "Desenvolvedor Mobile - Xamarin/Flutter/.net core",
+      "start_date" : "2018/09",
+      "end_date" : "current",
+      "location" : "Porto Alegre - RS",
+      "description" : "Xamarin forms, .Net Core, Web API, Scrum, MVVM, Flutter."
+    },
+    "2" : 
+    {
+      "company" : "Sindus ANDRITZ",
+      "title" : "Desenvolvedor de software",
+      "start_date" : "2018/06",
+      "end_date" : "2018/08",
+      "location" : "Porto Alegre - RS",
+      "description" : "C#, WPF, MVVM, Scrum, Web API (net core)."
+    },
+    "3" : 
+    {
+      "company" : "Cervantes Tecnologia",
+      "title" : "Desenvolvedor de software",
+      "start_date" : "2017/10",
+      "end_date" : "2018/05",
+      "location" : "Torres - RS",
+      "description" : "Desenvolvedor de Software C# com Windows Forms, utilização de Bancos de Dados Postgres SQL e MSSQL Server. Desenvolvimento de testes unitários com a ferramento NUnit. Metodologia Ágil SCRUM no processo de Desenvolvimento de Software."
+    },
+    "4" : 
+    {
+      "company" : "Go Coach",
+      "title" : "Owner",
+      "start_date" : "2016/09",
+      "end_date" : "2017/09",
+      "location" : "Torres - RS",
+      "description" : "Go Coach é um jogo para computadores. O game está em desenvolvimento contínuo e a cada versão uma nova funcionalidade é implementada, além das correções de possíveis problemas encontrados."
+    },
+    "5" : 
+    {
+      "company" : "IEL - Instituto Euvaldo Lodi",
+      "title" : "Desenvolvedor de software (Bolsista)",
+      "start_date" : "2015/09",
+      "end_date" : "2016/08",
+      "location" : "Torres - RS",
+      "description" : "Bolsista do projeto Inova Talentos na empresa Info World Tecnologia e Informática Ltda. Desenvolvimento de soluções utilizando tecnologias .Net."
+    },
+    "6" : 
+    {
+      "company" : "Info World Tecnologia e Informática Ltda",
+      "title" : "Desenvolvedor de software",
+      "start_date" : "2010/07",
+      "end_date" : "2015/08",
+      "location" : "Torres - RS",
+      "description" : "Desenvolvedor nas linguagens VB6, VB.net e C#.net com WPF. Conhecimentos em bancos de dados SQL Server e Firebird. Conhecimentos sobre os frameworks NHibernate, Fluent NHibernate, NUnit. Padrões de projeto MVC e MVVM. Conhecimento na aplicação e utilização da metodologia ágil SCRUM para o processo de desenvolvimento de software."
+    }
+  },
+  "education" : 
+  {
+    "1" : 
+    {
+      "university" : "Universidade Luterana do Brasil",
+      "title" : "Especialização em Gestão de Bancos de Dados",
+      "start_date" : "2013",
+      "end_date" : "2014"
+    },
+    "2" : 
+    {
+      "university" : "Universidade Luterana do Brasil",
+      "title" : "Superior Tecnólogo em Analise e Desenvolvimento de Sistemas",
+      "start_date" : "2007",
+      "end_date" : "2012"
+    }
+  }
+}
